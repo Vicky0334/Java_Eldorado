@@ -1,8 +1,6 @@
-# Java_Eldorado
-Welcome to Java Eldorado! 🌟  Java Eldorado is a treasure trove for Java enthusiasts, offering a rich collection of resources, tools, and insights to navigate the Java ecosystem with ease and mastery.
 
 <div align="center">
-  <img src="java_eldorado_logo.png" alt="Java Eldorado Logo" width="200">
+  <img src="https://imgs.search.brave.com/Dss_4cwHCxzHFvFoXLB8oq9olK3CKMtr4a2Bt_rMiRk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVsZnRzdGFjay5j/b20vaW1nL0phdmEv/ZGlzcGxheS1pbWFn/ZS11c2luZy1kcmF3/aW1hZ2Uud2VicA" alt="Java Eldorado Logo" width="200">
 </div>
 
 # Java Eldorado 🌟
